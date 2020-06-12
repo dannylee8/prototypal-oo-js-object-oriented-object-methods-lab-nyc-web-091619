@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-object-oriented-object-methods-lab#readme",
   "dependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
     "chai": "^4.2.0",
     "file-system": "^2.2.2",
     "jsdom": "^9.0",
